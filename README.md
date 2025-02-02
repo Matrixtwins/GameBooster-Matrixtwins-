@@ -21,9 +21,6 @@
 - 2GB RAM minimum
 - 1.0 GHz processor minimum
 
-## Support
-
-If you have any questions or run into issues, feel free to open an issue on GitHub or contact us at [your-email@example.com].
 
 ---
 
